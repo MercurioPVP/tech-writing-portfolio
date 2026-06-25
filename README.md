@@ -26,4 +26,4 @@
 
 ## Работы
 
-Скоро здесь появятся примеры документации
+[Как импортировать события в Google Календарь из файла с расширением .ics]([link_address](https://github.com/MercurioPVP/tech-writing-portfolio/blob/main/guides/google-calendar-import.md))
