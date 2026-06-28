@@ -27,3 +27,5 @@
 ## Работы
 
 [Руководство: импорт .ics в Google Календарь](https://github.com/MercurioPVP/tech-writing-portfolio/blob/main/guides/google-calendar-import.md) — пошаговое руководство пользователя с предусловиями, troubleshooting-таблицей и проверкой результата. Подготовлено в формате docs-as-code (Markdown, Git).
+
+[Справочник горячих клавиш VS Code](https://github.com/MercurioPVP/tech-writing-portfolio/blob/main/guides/vscode-shortcuts.md) —  reference-документ: структурирование по смысловым группам, единый формат записи.
